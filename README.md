@@ -1,2 +1,2 @@
 # Front-simples
-Site simples.
+Site.
